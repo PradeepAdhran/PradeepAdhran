@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @PradeepAdhran
+- 👋 Hi, I’m Pradeep Kr Rana
 - 👀 I’m interested in Web automation, Android/iOS automation & API Automation
 - 🌱 I’m currently learning new things
 - 💞️ I’m looking to collaborate on ...
